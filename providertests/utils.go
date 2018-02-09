@@ -12,9 +12,9 @@ import (
 	"testing"
 	"time"
 
+	"github.com/asenyshyn/gosaml2/types"
 	"github.com/jonboulle/clockwork"
 	"github.com/russellhaering/gosaml2"
-	"github.com/russellhaering/gosaml2/types"
 	"github.com/russellhaering/goxmldsig"
 	"github.com/stretchr/testify/require"
 )
